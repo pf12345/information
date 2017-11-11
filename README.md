@@ -10,9 +10,11 @@
 
 手机微信版使用截图
 
+<p>
 <img alt="客户管理应用列表" width="200" src="./images/bosch_customer.jpeg"/>
 <img alt="经销商详情" width="200" src="./images/bosch_custom_detail.jpeg"/>
 <img alt="拜访记录详情" width="200" src="./images/bosch_visit.jpeg"/>
+</p>
 
 web pc版截图
 
@@ -102,6 +104,8 @@ export const appIdMap = {
 - 在请求后端接口方面，为了减少请求量，在后端php，使用gzip压缩返回，在返回后，前端再将数据进行解压；这样，可以减少至少一半的请求量，提高传输速度；
 <img src="./images/buffer.png" />
 
+
+## 容大实业集团系统
 
 
 
